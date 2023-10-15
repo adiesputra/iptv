@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="https://shorturl.at/yNPUX" group-title="MNC TV Live",MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTVLCOPT:http-referrer=livemedia.mncplaymedia.net/#MNCLive
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="https://cdn.detik.net.id/20detik3/images/logo-detiktv.jpg?v=2023101519167" group-title="Detik Live",Detik TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/live/#DetikLive
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2025628969_b744100_sleng.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="https://cdn.detik.net.id/20detik3/images/logo-trans.png?v=2023101519167" group-title="Detik Live",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/live/#DetikLive
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2025628969_b344100_sleng.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="https://cdn.detik.net.id/20detik3/images/logo-trans7.png?v=2023101519167" group-title="Detik Live",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/live/#DetikLive
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1632524556_b344100_sleng.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="https://cdn.detik.net.id/20detik3/images/logo-cnn.png?v=2023101519167" group-title="Detik Live",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/live/#DetikLive
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1421528382_b192000_sleng.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="https://cdn.detik.net.id/20detik3/images/logo-cnbc.png?v=2023101519167" group-title="Detik Live",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/live/#DetikLive
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1421528382_b384000_sleng.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="www.youtube.com" tvg-logo="https://img.youtube.com/vi/1BTsX2WBg8Q/maxresdefault.jpg" group-title="Youtube Live",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTVLCOPT:http-referrer=www.youtube.com/#YoutubeLive
+https://shorturl.at/fgnQS
+#EXTM3U
+#EXTINF:-1 tvg-id="www.youtube.com" tvg-logo="https://img.youtube.com/vi/yNKvkPJl-tg/maxresdefault.jpg" group-title="Youtube Live",TV One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTVLCOPT:http-referrer=www.youtube.com/#YoutubeLive
+https://shorturl.at/dyFLV
+#EXTM3U
+#EXTINF:-1 tvg-id="www.youtube.com" tvg-logo="https://img.youtube.com/vi/3LCGJy6b904/maxresdefault.jpg" group-title="Youtube Live",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTVLCOPT:http-referrer=www.youtube.com/#YoutubeLive
+https://shorturl.at/fgWY9
